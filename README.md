@@ -21,5 +21,5 @@
 
 ## O reconhecimento pode ser, efetuado através de imagens tiradas pela webCam, para isso selecione a opção D
 
-## Para entender um pouco mais do reconhecimento facial e treinamento das redes neurais, você pode selecionar as opções F e G que irão demonstrar a predição da rede neural sobre o dataset que foi utilizado para seu treino e testes, que são as imagens da Universidade FEI.
+## Para entender um pouco mais do reconhecimento facial e treinamento das redes neurais, você pode selecionar as opções F e G que irão demonstrar a predição da rede neural sobre o dataset que foi utilizado para seus treinos e testes, que são as imagens da Universidade FEI.
 
