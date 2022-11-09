@@ -15,6 +15,8 @@
 
 ## Para a utilização do projeto é dado as seguintes opções: ![opcoes_de_Reconhecimento_Facial](https://user-images.githubusercontent.com/64969135/200312943-fddf432f-18ee-4050-a0cc-9889e5273ce7.png)
 
+## O arquivo que deve ser executado para análise é o Camera_TCC.py
+
 ## Cada opção é detalhada no terminal, os comandos são obtidos pelo teclado. Para o reonhecimento Facial via webCam é necessario cadastrar uma nova face, utilizando a tecla A e capturar as imagens faciais com a tecla W.
 
 ## Após o cadastro da face e usuario, deve ser selecionado a tecla T, para efetuar o treinamento da rede neural, caso tenha algum problema no reconhecimente, selecione a tecla Y para retreinar multiplas vezes.
