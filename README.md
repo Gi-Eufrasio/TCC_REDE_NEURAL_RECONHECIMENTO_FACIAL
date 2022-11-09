@@ -1,4 +1,4 @@
-# TCC_REDE_NEURAL_RECONHECIMENTO_FACIAL
+# Trabalho de Conclusão de Curso - Redes Neurais Artificiais Para o Reconhecimento Facial
 
 ## O projeto de reconhecimento facial, foi implementado totalmente na linguagem Python, utilizando as bibliotecas TesorFlow e Keras para o manuseio da Redes Neurais pré-treinadas e junção com uma Rede Neural criada para o ato de Reconhecimento Facial.
 
